@@ -6,9 +6,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Modding-62B47A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forge-1.20.1-DFA86A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forge-1.21.1-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>

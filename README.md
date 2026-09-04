@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Game+FFXIV+Developer;Forge+%7C+NeoForge;Java+%7C+Modding+%7C+Open+Source"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Game+FFXIV+Developer;LOL+%7C+Overwatch;"/>
   </a>
 </p>
 
